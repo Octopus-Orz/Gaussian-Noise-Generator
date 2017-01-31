@@ -1,0 +1,15 @@
+//Mac/Home/Desktop/RTL_file/ROM_trans_new.v {1 {vlog -work work //Mac/Home/Desktop/RTL_file/ROM_trans_new.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ROM_trans_new
+
+Top level modules:
+	ROM_trans_new
+
+} {} {}} //Mac/Home/Desktop/RTL_file/ROM_trans_new_tb.v {1 {vlog -work work //Mac/Home/Desktop/RTL_file/ROM_trans_new_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ROM_trans_new_tb
+
+Top level modules:
+	ROM_trans_new_tb
+
+} {} {}}

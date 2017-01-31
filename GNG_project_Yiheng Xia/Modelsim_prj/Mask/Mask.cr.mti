@@ -1,0 +1,15 @@
+//Mac/Home/Desktop/RTL_file/Mask_tb.v {1 {vlog -work work //Mac/Home/Desktop/RTL_file/Mask_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mask_tb
+
+Top level modules:
+	Mask_tb
+
+} {} {}} //Mac/Home/Desktop/RTL_file/Mask.v {1 {vlog -work work //Mac/Home/Desktop/RTL_file/Mask.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mask
+
+Top level modules:
+	Mask
+
+} {} {}}

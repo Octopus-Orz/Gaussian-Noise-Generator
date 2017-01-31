@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Modelsim_prj\my_prj\adder2
+vmult
+Z1 !s100 6YgG6<:f`:@KZ21SA>zYD0
+Z2 IVAkM;ak70`]kDZQ:LYa4d3
+Z3 Vf`PX5=8c8dOJU2BA0@fcJ0
+Z4 dC:\Modelsim_prj\my_prj\mult
+Z5 w1485804027
+Z6 8//Mac/Home/Desktop/RTL_file/mult.v
+Z7 F//Mac/Home/Desktop/RTL_file/mult.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/mult.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1485804070.361000
+Z12 !s107 //Mac/Home/Desktop/RTL_file/mult.v|
+!s101 -O0
+vmult_tb
+!i10b 1
+!s100 4[D_CM2IFZFV4MzhX;RHJ3
+I=:`b0`<zbL9oK8Db5jGFW2
+Z13 V6UzXVENRD<Lf7z9?LgL^L0
+R4
+w1485804067
+Z14 8//Mac/Home/Desktop/RTL_file/mult_tb.v
+Z15 F//Mac/Home/Desktop/RTL_file/mult_tb.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1485804070.439000
+!s107 //Mac/Home/Desktop/RTL_file/mult_tb.v|
+Z16 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/mult_tb.v|
+!s101 -O0
+R10

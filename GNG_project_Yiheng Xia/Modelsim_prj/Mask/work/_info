@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Modelsim_prj\my_prj\LZD
+vMask
+!i10b 1
+!s100 coFA=66NQO_lhW;No=Aln1
+IZkI^OMSnfdSiCb81WO1_>0
+Z1 Ve[708hY?BWWTS;f5A1Voi2
+Z2 dC:\Modelsim_prj\my_prj\Mask
+w1485652326
+Z3 8//Mac/Home/Desktop/RTL_file/Mask.v
+Z4 F//Mac/Home/Desktop/RTL_file/Mask.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1485652334.976000
+!s107 //Mac/Home/Desktop/RTL_file/Mask.v|
+Z6 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/Mask.v|
+!s101 -O0
+Z7 o-work work -O0
+Z8 n@mask
+vMask_tb
+Z9 !s100 IMioUB8I^HgPJiW5_75K92
+Z10 Id4]m5Z2Y_^:j6M1[0QR_V2
+Z11 VX4LgbBCW=WVdXWP5BdD>43
+R2
+Z12 w1485646965
+Z13 8//Mac/Home/Desktop/RTL_file/Mask_tb.v
+Z14 F//Mac/Home/Desktop/RTL_file/Mask_tb.v
+L0 3
+R5
+r1
+31
+Z15 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/Mask_tb.v|
+R7
+Z16 n@mask_tb
+!i10b 1
+!s85 0
+Z17 !s108 1485652334.882000
+Z18 !s107 //Mac/Home/Desktop/RTL_file/Mask_tb.v|
+!s101 -O0

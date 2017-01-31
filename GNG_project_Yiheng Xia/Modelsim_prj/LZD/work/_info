@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vLZD
+Z1 IN>]7dZ57BK?fm>m=F83;F0
+Z2 V^Pa0nL=?=fo<[2AB^EFR72
+Z3 dC:\Modelsim_prj\my_prj\LZD
+Z4 w1485641806
+Z5 8//Mac/Home/Desktop/RTL_file/LZD.v
+Z6 F//Mac/Home/Desktop/RTL_file/LZD.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/LZD.v|
+Z9 o-work work -O0
+Z10 n@l@z@d
+!i10b 1
+Z11 !s100 _iGE@]ml?nT0k^M49U52<2
+!s85 0
+Z12 !s108 1485641930.983000
+Z13 !s107 //Mac/Home/Desktop/RTL_file/LZD.v|
+!s101 -O0
+vLZD_tb
+!i10b 1
+!s100 lA]ROOm3PV5KgEkZXkH:;2
+IDP99iYEQB=]8^8=00cV;P0
+Z14 VbF>QN0DW?iXEZ27A6`:cM1
+R3
+w1485641893
+Z15 8//Mac/Home/Desktop/RTL_file/LZD_tb.v
+Z16 F//Mac/Home/Desktop/RTL_file/LZD_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1485641931.077000
+!s107 //Mac/Home/Desktop/RTL_file/LZD_tb.v|
+Z17 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/LZD_tb.v|
+!s101 -O0
+R9
+Z18 n@l@z@d_tb

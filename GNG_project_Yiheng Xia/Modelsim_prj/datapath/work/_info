@@ -1,0 +1,138 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vadder1
+Z1 !s100 MO:>_aa6ZAN1MglXJH<Zn2
+Z2 IUXPhZPzfk_P_6c9d1H;aF0
+Z3 VUbL0EDAd8o]1e`mKIL<Pa3
+Z4 dC:\Modelsim_prj\my_prj\datapath
+Z5 w1485802613
+Z6 8//Mac/Home/Desktop/RTL_file/adder1.v
+Z7 F//Mac/Home/Desktop/RTL_file/adder1.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/adder1.v|
+Z10 o-work work -O0
+Z11 !s108 1485823431.781000
+Z12 !s107 //Mac/Home/Desktop/RTL_file/adder1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vadder2
+Z13 !s100 YL]?ojVIQ_Eak1L:F]N_K3
+Z14 Id8hLfa63OZDoOc]1M@K4z3
+Z15 V5^LdGZQ9SzI9lEeF1Z_Y:0
+R4
+Z16 w1485821533
+Z17 8//Mac/Home/Desktop/RTL_file/adder2.v
+Z18 F//Mac/Home/Desktop/RTL_file/adder2.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/adder2.v|
+R10
+Z20 !s108 1485823431.890000
+Z21 !s107 //Mac/Home/Desktop/RTL_file/adder2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z22 IHz`MQcgA5^NZLoKF17BQj2
+Z23 VZ:]_;52VYLW`5]?K;3Yh21
+R4
+Z24 w1485823430
+Z25 8//Mac/Home/Desktop/RTL_file/datapath.v
+Z26 F//Mac/Home/Desktop/RTL_file/datapath.v
+L0 1
+R8
+r1
+31
+R10
+Z27 !s100 `ZV@ggE1l6WXjh:5:J;2?2
+Z28 !s108 1485823431.985000
+Z29 !s107 //Mac/Home/Desktop/RTL_file/datapath.v|
+Z30 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath_tb
+Z31 !s100 BhF``F28oI8fFK917Oh@b2
+Z32 IlH]g5SjSXnS03Kld>MH060
+Z33 VEWO?_?OX`2EgcWCd@z7jn1
+R4
+Z34 w1485823140
+Z35 8//Mac/Home/Desktop/RTL_file/datapath_tb.v
+Z36 F//Mac/Home/Desktop/RTL_file/datapath_tb.v
+L0 3
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/datapath_tb.v|
+R10
+Z38 !s108 1485823432.062000
+Z39 !s107 //Mac/Home/Desktop/RTL_file/datapath_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmult1
+Z40 !s100 IFIRonjV2zJ?00^`zcXb52
+Z41 IXfK9jYK=kbLH=k;[P3DOo2
+Z42 V:eOgAINb0O>l:`9WizhB02
+R4
+Z43 w1485820699
+Z44 8//Mac/Home/Desktop/RTL_file/mult1.v
+Z45 F//Mac/Home/Desktop/RTL_file/mult1.v
+L0 1
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/mult1.v|
+R10
+Z47 !s108 1485823432.140000
+Z48 !s107 //Mac/Home/Desktop/RTL_file/mult1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmult2
+Z49 !s100 g=GkE6jVVIJFm>0TkeEX[3
+Z50 IP@3g:KIIaWTM4fXVaVoTV0
+Z51 V=Jcjl<aedmg>KaT]M3Fm_3
+R4
+Z52 w1485821340
+Z53 8//Mac/Home/Desktop/RTL_file/mult2.v
+Z54 F//Mac/Home/Desktop/RTL_file/mult2.v
+L0 1
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/mult2.v|
+R10
+!i10b 1
+!s85 0
+Z56 !s108 1485823432.218000
+Z57 !s107 //Mac/Home/Desktop/RTL_file/mult2.v|
+!s101 -O0
+vrom
+!i10b 1
+Z58 !s100 VJ>8eL1R4aOHnM[zddkO=1
+Z59 IjFRWJO_0EVg9fAQ`M_?PD0
+Z60 VgXfFXJl6MbhLE;k2P8DoN1
+R4
+Z61 w1485819400
+Z62 8//Mac/Home/Desktop/RTL_file/rom.v
+Z63 F//Mac/Home/Desktop/RTL_file/rom.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1485823432.297000
+!s107 //Mac/Home/Desktop/RTL_file/rom.v|
+Z64 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/rom.v|
+!s101 -O0
+R10

@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Modelsim_prj\my_prj\Mask
+vROM_trans_new
+Z1 !s100 ]S;nKOV:hk7^ZO7h0D?OK1
+Z2 IGfX2mXb`4Q=a>WQQzEZoa2
+Z3 VFTjh65BfW4DN]1dPcDSP11
+Z4 dC:\Modelsim_prj\my_prj\ROM_trans_new
+Z5 w1485654942
+Z6 8//Mac/Home/Desktop/RTL_file/ROM_trans_new.v
+Z7 F//Mac/Home/Desktop/RTL_file/ROM_trans_new.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/ROM_trans_new.v|
+Z10 o-work work -O0
+Z11 n@r@o@m_trans_new
+!i10b 1
+!s85 0
+Z12 !s108 1485657083.992000
+Z13 !s107 //Mac/Home/Desktop/RTL_file/ROM_trans_new.v|
+!s101 -O0
+vROM_trans_new_tb
+!i10b 1
+!s100 PI]:G98PG_?Ee1V_OiXOO2
+I=F?<GAK[KH;D;hMe;7^Q22
+Z14 VDSQi_=DIcOAeT>c[^EM=E0
+R4
+w1485657063
+Z15 8//Mac/Home/Desktop/RTL_file/ROM_trans_new_tb.v
+Z16 F//Mac/Home/Desktop/RTL_file/ROM_trans_new_tb.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1485657084.070000
+!s107 //Mac/Home/Desktop/RTL_file/ROM_trans_new_tb.v|
+Z17 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/ROM_trans_new_tb.v|
+!s101 -O0
+R10
+Z18 n@r@o@m_trans_new_tb

@@ -1,0 +1,36 @@
+//Mac/Home/Desktop/RTL_file/adder1.v {1 {vlog -work work //Mac/Home/Desktop/RTL_file/adder1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder1
+
+Top level modules:
+	adder1
+
+} {} {}} //Mac/Home/Desktop/RTL_file/rom.v {1 {vlog -work work //Mac/Home/Desktop/RTL_file/rom.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} //Mac/Home/Desktop/RTL_file/mult1.v {1 {vlog -work work //Mac/Home/Desktop/RTL_file/mult1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mult1
+
+Top level modules:
+	mult1
+
+} {} {}} //Mac/Home/Desktop/RTL_file/mult2.v {1 {vlog -work work //Mac/Home/Desktop/RTL_file/mult2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mult2
+
+Top level modules:
+	mult2
+
+} {} {}} //Mac/Home/Desktop/RTL_file/datapath_tb.v {1 {vlog -work work //Mac/Home/Desktop/RTL_file/datapath_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datapath_tb
+
+Top level modules:
+	datapath_tb
+
+} {} {}}

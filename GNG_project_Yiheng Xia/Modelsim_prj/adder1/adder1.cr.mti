@@ -1,0 +1,23 @@
+//Mac/Home/Desktop/RTL_file/adder2.v {1 {vlog -work work //Mac/Home/Desktop/RTL_file/adder2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder2
+
+Top level modules:
+	adder2
+
+} {} {}} //Mac/Home/Desktop/RTL_file/adder2_tb.v {2 {vlog -work work //Mac/Home/Desktop/RTL_file/adder2_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder1_tb
+** Warning: //Mac/Home/Desktop/RTL_file/adder2_tb.v(16): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: //Mac/Home/Desktop/RTL_file/adder2_tb.v(19): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: //Mac/Home/Desktop/RTL_file/adder2_tb.v(22): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: //Mac/Home/Desktop/RTL_file/adder2_tb.v(25): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	adder1_tb
+
+} {} {}}

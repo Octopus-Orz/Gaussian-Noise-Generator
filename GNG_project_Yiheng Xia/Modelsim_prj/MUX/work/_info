@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Modelsim_prj\my_prj\ROM_trans_new
+vMUX
+Z1 I<_AaD0c5J:O4WPPYU?VO40
+Z2 Vhcg6DWM`H@Eo]S6O]DG@S0
+Z3 dC:\Modelsim_prj\my_prj\MUX
+Z4 w1485659519
+Z5 8//Mac/Home/Desktop/RTL_file/MUX.v
+Z6 F//Mac/Home/Desktop/RTL_file/MUX.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@m@u@x
+!i10b 1
+Z10 !s100 oSIDX0[]RP_4:XgL<SP]o2
+!s85 0
+Z11 !s108 1485659959.961000
+Z12 !s107 //Mac/Home/Desktop/RTL_file/MUX.v|
+Z13 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/MUX.v|
+!s101 -O0
+vMUX_tb
+!i10b 1
+!s100 6`EjZdYK?aEZ9SKHKeaUY1
+IaJR>g0l7GAL<@CN=ahIRS2
+VM9hRWHild>;mK?kMBT?>J3
+R3
+w1485659872
+8//Mac/Home/Desktop/RTL_file/MUX_tb.v
+F//Mac/Home/Desktop/RTL_file/MUX_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1485659960.054000
+!s107 //Mac/Home/Desktop/RTL_file/MUX_tb.v|
+!s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/MUX_tb.v|
+!s101 -O0
+R8
+n@m@u@x_tb

@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Modelsim_prj\my_prj\adder1
+vadder1_tb
+Z1 IZQOR1MDQe7P[H;:RHGXoD1
+Z2 VmZ1=dZh2H<MRG@jdP>Ff82
+Z3 dC:\Modelsim_prj\my_prj\adder2
+Z4 w1485802037
+Z5 8//Mac/Home/Desktop/RTL_file/adder2_tb.v
+Z6 F//Mac/Home/Desktop/RTL_file/adder2_tb.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 A2U;ozUmbkhFJI3U=aNn;0
+Z10 !s108 1485803095.877000
+Z11 !s107 //Mac/Home/Desktop/RTL_file/adder2_tb.v|
+Z12 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/adder2_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vadder2
+Z13 !s100 C45V5Qn1Imga7oDfIl95Q3
+Z14 I?4VTK6J9U:ceKfGMb]=?R0
+Z15 VZ`2eFoMKDF9;>:cXKiCcV1
+R3
+Z16 w1485803781
+Z17 8//Mac/Home/Desktop/RTL_file/adder2.v
+Z18 F//Mac/Home/Desktop/RTL_file/adder2.v
+L0 1
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/adder2.v|
+R8
+!i10b 1
+!s85 0
+Z20 !s108 1485803852.534000
+Z21 !s107 //Mac/Home/Desktop/RTL_file/adder2.v|
+!s101 -O0
+vadder2_tb
+!i10b 1
+!s100 <:IzZ>]`cH26ACAK[MKN[0
+IG;38e6ed3gNEC15BT4;7W2
+Z22 VZfJ]Y_baIN^ie2l?]hFII2
+R3
+w1485803849
+R5
+R6
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1485803852.642000
+!s107 //Mac/Home/Desktop/RTL_file/adder2_tb.v|
+R12
+!s101 -O0
+R8

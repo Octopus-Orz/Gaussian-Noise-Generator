@@ -1,0 +1,53 @@
+%generate ROM_coef    8 segment
+a=zeros(10,3);
+Bxa=[8,8,16,16,32,32,64,64,128,128];
+boundary=[0.5,0.625,0.75,0.8125,0.875,0.90625,0.937,0.952625,0.96825,0.976625,0.9844375];
+trans_a=zeros(8,3);
+    x1=linspace(0.5,0.625); 
+    y1=ICDF(x1);
+    p1=polyfit(x1,y1,2);
+    a(1,1:3)=p1;
+    x2=linspace(0.625,0.75); 
+    y2=ICDF(x2);
+    p2=polyfit(x2,y2,2);
+    a(2,1:3)=p2;    
+    x3=linspace(0.75,0.8125); 
+    y3=ICDF(x3);
+    p3=polyfit(x3,y3,2);
+    a(3,1:3)=p3;    
+    x4=linspace(0.8125,0.875); 
+    y4=ICDF(x4);
+    p4=polyfit(x4,y4,2);
+    a(4,1:3)=p4;    
+    x5=linspace(0.875,0.90625,1000); 
+    y5=ICDF(x5);
+    p5=polyfit(x5,y5,2);
+    a(5,1:3)=p5;
+    x6=linspace(0.90625,0.937,1000); 
+    y6=ICDF(x6);
+    p6=polyfit(x6,y6,2);
+    a(6,1:3)=p6;
+    x7=linspace(0.937,0.952625,1000); 
+    y7=ICDF(x7);
+    p7=polyfit(x7,y7,2);
+    a(7,1:3)=p7;
+    x8=linspace(0.952625,0.96825,1000); 
+    y8=ICDF(x8);
+    p8=polyfit(x8,y8,2);
+    a(8,1:3)=p8;
+    x9=linspace(0.96825,0.976625,1000); 
+    y9=ICDF(x9);
+    p9=polyfit(x9,y9,2);
+    a(9,1:3)=p9;
+    x10=linspace(0.976625,0.9844375,10000); 
+    y10=ICDF(x10);
+    p10=polyfit(x10,y10,2);
+    a(10,1:3)=p10;
+    
+for i=1:10     %this is to get the normalized coefficient 
+    trans_a(i,1)=a(i,1)/(Bxa(i)^2);
+    trans_a(i,2)=(a(i,1)*2*boundary(i)+a(i,2))/Bxa(i);
+    trans_a(i,3)=a(i,1)*(boundary(i)^2)+a(i,2)*boundary(i)+a(i,3);
+end
+    dlmwrite('trans_coef.txt',trans_a);
+    dlmwrite('a_coef.txt',a);

@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Modelsim_prj\my_prj\mult
+vrom
+Z1 IjFRWJO_0EVg9fAQ`M_?PD0
+Z2 VgXfFXJl6MbhLE;k2P8DoN1
+Z3 dC:\Modelsim_prj\my_prj\rom
+Z4 w1485819400
+Z5 8//Mac/Home/Desktop/RTL_file/rom.v
+Z6 F//Mac/Home/Desktop/RTL_file/rom.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/rom.v|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 VJ>8eL1R4aOHnM[zddkO=1
+!s85 0
+Z11 !s108 1485819413.410000
+Z12 !s107 //Mac/Home/Desktop/RTL_file/rom.v|
+!s101 -O0
+vrom_tb
+!i10b 1
+Z13 !s100 9@UH=^hAE;?caiX[`iFJH3
+Z14 II53EdSXzMGRJ6`WzNfekQ1
+Z15 VYEMW=:Xjaek[2L_We=6DK0
+R3
+Z16 w1485818010
+Z17 8//Mac/Home/Desktop/RTL_file/rom_tb.v
+Z18 F//Mac/Home/Desktop/RTL_file/rom_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1485819413.503000
+!s107 //Mac/Home/Desktop/RTL_file/rom_tb.v|
+Z19 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/RTL_file/rom_tb.v|
+!s101 -O0
+R9
